@@ -1,0 +1,65 @@
+h1 {
+  margin : 0px;
+  font-size: 200% ;
+  padding-top: 50px;
+}
+
+small {
+  color : #a3bfdb;
+  margin-bottom: 100px;
+}
+
+
+
+.head {
+  background-color: #4d6c8b;
+  color : white;
+  text-align: center;
+  padding : 50px ;
+}
+
+.menu {
+  margin-top: 50px ;
+  word-spacing : 30px ;
+}
+
+.wrapper {
+  color : #999;
+  background-color: #eee;
+
+  padding : 15px;
+  padding-left: 300px ;
+}
+
+
+#article {
+  margin-left: 200px ;
+  margin-right: 200px ;
+  border-left: 0.5px solid gray ;
+  border-right: 0.5px solid gray ;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+img  {
+   width : 200px ;
+   height: auto ;
+   margin-top: 100px ;
+}
+
+.small {
+   text-align: center;
+}
+
+.title_m {
+  font-size: 150% ;
+  border-bottom: 0.5px dotted gray ;
+  margin-bottom: 50px ;
+
+
+}
+
+a {
+color : #ddd;
+text-decoration: none;
+}
